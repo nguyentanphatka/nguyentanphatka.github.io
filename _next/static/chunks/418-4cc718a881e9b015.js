@@ -692,7 +692,7 @@
                                         children: x.map(t => (0, a.jsx)("li", {
                                             className: "inline-block",
                                             children: (0, a.jsx)("a", {
-                                                href: "#",
+                                                href: t.link,
                                                 className: "social-item inline-block h-40 w-40 leading-lh-42 text-center text-".concat(e ? "white" : "black-6", " transition duration-300 text-fs-17 mx-6 bg-").concat(e ? "black-2" : "light-grey hover:text-white", " rounded-full"),
                                                 children: (0, a.jsx)("i", {
                                                     className: t.icon
@@ -746,7 +746,7 @@
                                     })]
                                 }), (0, a.jsx)("p", {
                                     className: "font-Open-sans mt-15 mb-28 leading-lh-35 down-lg:mt-2.5 down-lg:mb-23 down-lg:text-fs-15 down-lg:leading-lh-30",
-                                    children: "Hi, I’m Nguyen Tan PPhat, a .NET Developer with 4.5 years of experience working with .NET, .NET Framework, and .NET Core MVC. I have extensive experience with databases and also possess front-end development skills when needed. I’m passionate about delivering high-quality solutions and am ready to take on new challenges."
+                                    children: "Hi, I’m Nguyen Tan Phat, a .NET Developer with 4.5 years of experience working with .NET, .NET Framework, and .NET Core MVC. I have extensive experience with databases and also possess front-end development skills when needed. I’m passionate about delivering high-quality solutions and am ready to take on new challenges."
                                 }), (0, a.jsxs)("div", {
                                     id: "link-about",
                                     className: "button group cursor-pointer overflow-hidden inline-block leading-lh-1.4 rounded-30 text-ellipsis text-center align-middle select-none transition-all duration-250 ease-in-out uppercase no-underline relative z-10 py-16 pr-70 pl-35 text-fs-15 font-semibold text-white bg-transparent outline-0 before:absolute before:-z-10 before:left-0 before:right-0 before:top-0 before:bottom-0 before:translate-x-full hover:before:translate-x-0 before:transition before:duration-300 before:ease-out",
@@ -797,6 +797,39 @@
                     type: "youtube",
                 src: "https://www.youtube.com/embed/50VNCymT-Cs?si=kXV9QlAWStPMJkzV",
                     img: "assets/img/projects/alec.jpg",
+                    project: "Website",
+                    client: "youtube",
+                    langages: "HTML, CSS, Javascript",
+                    previewLink: "www.youtube.com"
+                },
+                {
+                    id: 4,
+                    title: "Masked Wolf - Astronaut In The Ocean",
+                    type: "youtube",
+                    src: "https://www.youtube.com/embed/MEg-oqI9qmw?si=SwZcSe9tHkWZsNaI",
+                    img: "assets/img/projects/maxresdefault.jpg",
+                    project: "Website",
+                    client: "youtube",
+                    langages: "HTML, CSS, Javascript",
+                    previewLink: "www.youtube.com"
+                },
+                {
+                    id: 5,
+                    title: "DE YANG GATAL GATAL SA - Bukan PHO",
+                    type: "youtube",
+                    src: "https://www.youtube.com/embed/823uvXljaHE?si=qPio7Xw_oh0Ki_Gl",
+                    img: "assets/img/projects/deyang.jpg",
+                    project: "Website",
+                    client: "youtube",
+                    langages: "HTML, CSS, Javascript",
+                    previewLink: "www.youtube.com"
+                }
+                , {
+                    id: 6,
+                    title: "Imagine Dragons - Believer",
+                    type: "youtube",
+                    src: "https://www.youtube.com/embed/7wtfhZwyrcc?si=u6F6NppG0UCKrJik",
+                    img: "assets/img/projects/drg.jpeg",
                     project: "Website",
                     client: "youtube",
                     langages: "HTML, CSS, Javascript",
