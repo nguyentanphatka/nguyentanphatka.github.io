@@ -199,7 +199,8 @@
                                     children: [(0, a.jsxs)("div", {
                                         className: "xl:basis-1/2 lg:basis-5/12 down-lg:basis-full",
                                         children: [(0, a.jsx)("h3", {
-                                            className: "uppercase text-fs-26 xs:text-fs-21 pb-22 text-white font-semibold",
+
+                                            className: "uppercase text-fs-26 xs:text-fs-21 pb-22  font-semibold".concat(e ? "text-white" : "text-black-6"),
                                             children: "personal infos"
                                         }), (0, a.jsx)("img", {
                                             className: "hidden xs:block rounded-full border-4 border-solid border-black-3 w-230 h-230 mb-25 mx-auto",
@@ -660,7 +661,7 @@
                             colorTitle: "touch",
                             normalTitle: "get in"
                         }), (0, a.jsx)("div", {
-                            className: "mx-auto w-2/3",
+                            className: "xl:max-w-1140 custom-md-3:max-w-[calc(100%-195px)] lg:max-w-960 md:max-w-720 sm:max-w-540 xs:max-w-full mx-auto",
                             children: (0, a.jsxs)("div", {
                                 className: "flex down-lg:flex-col",
                                 children: [(0, a.jsxs)("div", {
