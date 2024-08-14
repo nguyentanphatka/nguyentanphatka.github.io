@@ -9,72 +9,72 @@
                 l = i(2265),
                 n = i(5770);
             let r = [{
-                    id: 11,
-                    data: [{
-                        id: 1,
-                        type: "First Name",
-                        value: "Phat"
-                    }, {
-                        id: 2,
-                        type: "Last Name",
-                        value: "Nguyen Tan"
-                    }, {
-                        id: 3,
-                        type: "Age",
-                        value: "27 Years"
-                    }, {
-                        id: 4,
-                        type: "Nationality",
-                        value: "Viet Nam"
-                    }, {
-                        id: 5,
-                        type: "Freelance",
-                        value: "Available"
-                    }]
+                id: 11,
+                data: [{
+                    id: 1,
+                    type: "First Name",
+                    value: "Phat"
                 }, {
-                    id: 12,
-                    data: [{
-                        id: 6,
-                        type: "Address",
-                        value: "Ho Chi Minh City"
-                    }, {
-                        id: 7,
-                        type: "Phone",
-                        value: "+84 869164648"
-                    }, {
-                        id: 8,
-                        type: "Email",
-                        value: "nguyentanphatuit@gmail.com"
-                    }, {
-                        id: 9,
-                        type: "Skype",
-                        value: "live:nguyentanphatuit"
-                    }, {
-                        id: 10,
-                        type: "Langages",
-                        value: "Vietnamese, English"
-                    }]
-                }],
+                    id: 2,
+                    type: "Last Name",
+                    value: "Nguyen Tan"
+                }, {
+                    id: 3,
+                    type: "Age",
+                    value: "27 Years"
+                }, {
+                    id: 4,
+                    type: "Nationality",
+                    value: "Viet Nam"
+                }, {
+                    id: 5,
+                    type: "Freelance",
+                    value: "Available"
+                }]
+            }, {
+                id: 12,
+                data: [{
+                    id: 6,
+                    type: "Address",
+                    value: "Hiep Binh Chanh - Thu Duc - Ho Chi Minh City"
+                }, {
+                    id: 7,
+                    type: "Phone",
+                    value: "(+84) 869 164 648"
+                }, {
+                    id: 8,
+                    type: "Email",
+                    value: "nguyentanphatuit@gmail.com"
+                }, {
+                    id: 9,
+                    type: "Skype",
+                    value: "live:nguyentanphatuit"
+                }, {
+                    id: 10,
+                    type: "Langages",
+                    value: "Vietnamese, English"
+                }]
+            }],
                 c = [{
                     id: 1,
-                    title: 'years of <span className="block">.NET experience</span>',
+                    title: 'Years of <span className="block">.NET experience</span>',
                     value: "4.5"
                 }, {
-                        id: 2,
-                        title: 'years of <span className="block">working experience</span>',
-                        value: "5.5"
-                    }, {
+                    id: 2,
+                    title: 'Years of <span className="block">working experience</span>',
+                    value: "5.5"
+                }, {
                     id: 3,
-                    title: 'Numberof companies worked at',
+                    title: 'Number of companies worked at',
                     value: "4"
                 }, {
                     id: 4,
-                    title: 'happy with<span className="block">company</span>',
+                    title: 'Happy with<span className="block">company</span>',
                     value: "100%"
                 }],
                 z = [{
                     id: 1,
-                    title: 'C#, .NET framework, ASP.NET, .NET core, EF core, MVC, WebApi',
+                    title: 'C#, ASP.NET, .NET framework, .NET core, EF core, MVC, WebApi',
                     value: "Backend"
                 }, {
                     id: 2,
@@ -82,13 +82,13 @@
                     value: "Frontend"
                 }, {
                     id: 3,
-                    title: 'MS SQL, MySQL, Postgres and <span className="block">MongoDB</span>',
+                    title: 'MS SQL, MySQL, Postgres and MongoDB <span className="block">(able to design and optimize database)</span>',
                     value: "Database"
                 },
                 {
-                id: 4,
-                title: 'Azure clound <span className="block">AZ900 certificate</span>',
-                value: "Clound"
+                    id: 4,
+                    title: 'Azure clound <span className="block"></span>',
+                    value: "Clound"
                 },
                 {
                     id: 5,
@@ -100,40 +100,40 @@
                         id: 1,
                         date: "Mar 2024 - Jun 2024",
                         title: ".NET web developer",
-                        company: "Freelancer",
-                        desc: "a freelancer with 4 years of experience in .NET, specializing in .NET Web API. I offer tailored solutions and high-quality development services, estimate project, breaking task and coding follow customer requirement"
-                    }, 
-                {
-                    id: 2,
-                    date: "Oct 2022 - Dec 2023",
-                    title: ".NET web developer",
-                    company: "Stepmedia Software",
-                    desc: "Levvia application of Deloitte \nResponsibility:\nImplements new features, unit tests, maintains and troubleshoots web applications.Comply with established coding quality standards of the company.Follow the project and organization processes, policies, and regulations, and ensure the assigned tasks are performed on time and with high quality.Work closely with the QA team to ensure the project quality,"
-                }, {
-                    id: 3,
-                    date: "Jun 2020 - Jun 2022",
-                    title: ".NET web Developer",
-                    company: "Global Vertical Innovations, LLC ",
-                    desc: "RIVIR web-based application\nResponsibility:\nJoin the team to develop the web for the E-Commerce system. Analysis requirements, research, meeting to design the infrastructure of the project, break tasks, estimate, and implement the functions essential and integration "
-                }, {
-                    id: 4,
-                    date: "Dec 2018 - Mar 2020",
-                    title: ".NET web Developer",
-                    company: "FPT Software HCM",
-                    desc: "Programming web applications according to the company's plan for the ERP project. \n• Writing web APIs, and working with interface design staff. \n• Coding front-end with angular/html css \n• Maintaining and developing application features including upgrading old features and improving SQL procedures,"
-                }],
+                        company: ".NET developer",
+                        desc: "a freelancer project work in BE .NET, specializing in .NET Web API. I offer tailored solutions and high-quality development services, estimate project, breaking task and coding follow customer requirement"
+                    },
+                    {
+                        id: 2,
+                        date: "Oct 2022 - Dec 2023",
+                        title: "Stepmedia Software",
+                        company: ".NET web developer",
+                        desc: "Levvia application of Deloitte: Implements new features, unit tests, maintains and troubleshoots web applications.Comply with established coding quality standards of the company.Follow the project and organization processes, policies, and regulations, and ensure the assigned tasks are performed on time and with high quality.Work closely with the QA team to ensure the project quality,"
+                    }, {
+                        id: 3,
+                        date: "Jun 2020 - Jun 2022",
+                        title: "Global Vertical Innovations, LLC",
+                        company: ".NET web Developer",
+                        desc: "RIVIR web-based application: Join the team to develop the web for the E-Commerce system. Analysis requirements, research, meeting to design the infrastructure of the project, break tasks, estimate, and implement the functions essential and integration "
+                    }, {
+                        id: 4,
+                        date: "Dec 2018 - Mar 2020",
+                        title: "FPT Software HCM",
+                        company: ".NET web Developer",
+                        desc: "M35: Programming web applications according to the company's plan for the ERP project. \n• Writing web APIs, and working with interface design staff. \n• Coding front-end with angular/html css \n• Maintaining and developing application features including upgrading old features and improving SQL procedures,"
+                    }],
                 u = [{
                     id: 1,
-                    date: "2018",
-                    title: "Fresher .NET Degree",
-                    unv: "FPT SOFTWARE ACADEMY C135",
-                    desc: "FPT Software Academy is the largest internal IT training institute of FPT Software in Vietnam. Proudly serving as a solid career launching pad for 3,000 to 6,000 IT professionals, the academy provides comprehensive training and development opportunities to support their career growth,"
+                    date: "Jun 2018 - Oct 2018",
+                    title: "FPT SOFTWARE ACADEMY",
+                    unv: "Fresher .NET Degree",
+                    desc: "C135: FPT Software Academy is the largest internal IT training institute of FPT Software in Vietnam. Proudly serving as a solid career launching pad for 3,000 to 6,000 IT professionals, the academy provides comprehensive training and development opportunities to support their career growth,"
                 }, {
                     id: 2,
-                    date: "2015-2020",
-                    title: "Software Engineering Degree",
-                    unv: "UNIVERSITY OF INFOMATION TECHNOLOGY (UIT)",
-                    desc: "The University of Information Technology (UIT), part of Vietnam National University-Ho Chi Minh City (VNU-HCM), is a prestigious public university specializing in information and communication technology. Established by Decision No. 134/2006/QD-TTg on June 8, 2006, UIT is committed to delivering high-quality IT education and contributing significantly to the advancement of Vietnam's IT industry. The university focuses on both cutting-edge research and the practical application of technology, supporting the country's modernization and industrialization efforts.,"
+                    date: "2015 - 2020",
+                    title: "UNIVERSITY OF INFOMATION TECHNOLOGY (UIT)",
+                    unv: "Software Engineering Degree",
+                    desc: "The University of Information Technology (UIT), part of Vietnam National University-Ho Chi Minh City (VNU-HCM), is a prestigious public university specializing in information and communication technology. Established on June 8, 2006, UIT is committed to delivering high-quality IT education and contributing significantly to the advancement of Vietnam's IT industry. The university focuses on both cutting-edge research and the practical application of technology, supporting the country's modernization and industrialization efforts.,"
                 }],
                 m = [{
                     id: 1,
@@ -143,7 +143,7 @@
                     id: 2,
                     name: "html",
                     value: "50"
-                 },
+                },
                 {
                     id: 3,
                     name: "javascript",
@@ -155,27 +155,27 @@
                 }, {
                     id: 5,
                     name: "reactjs",
-                    value: "70"
-                    }, {
-                        id: 6,
-                        name: "database & optimization",
-                        value: "80"
-                    }, {
-                        id: 7,
+                    value: "65"
+                }, {
+                    id: 6,
+                    name: "database & optimization",
+                    value: "80"
+                }, {
+                    id: 7,
                     name: "Data Structures and Algorithms",
-                        value: "80"
-                    },
-                    {
-                        id: 8,
-                        name: "Quick Learner and Skilled Researcher",
-                        value: "80"
-                    }
+                    value: "80"
+                },
+                {
+                    id: 8,
+                    name: "Quick Learner and Skilled Researcher",
+                    value: "80"
+                }
                     ,
-                    {
-                        id: 9,
-                        name: "Good communication teamwork",
-                        value: "100"
-                    }
+                {
+                    id: 9,
+                    name: "Good communication teamwork",
+                    value: "100"
+                }
                 ];
             t.default = () => {
                 let {
@@ -186,78 +186,78 @@
                     children: (0, a.jsxs)("div", {
                         className: "w-full",
                         children: [
-                            (0, a.jsx)(n.Z, 
-                            {
-                            bigTitle: "resume",
-                            colorTitle: "me",
-                            normalTitle: "about"
-                        }),
-                         (0, a.jsxs)("div", {
-                            className: "xl:max-w-1140 custom-md-3:max-w-[calc(100%-195px)] lg:max-w-960 md:max-w-720 sm:max-w-540 xs:max-w-full mx-auto",
-                            children: [(0, a.jsxs)("div", {
-                                className: "flex flex-row down-lg:flex-col",
+                            (0, a.jsx)(n.Z,
+                                {
+                                    bigTitle: "resume",
+                                    colorTitle: "me",
+                                    normalTitle: "about"
+                                }),
+                            (0, a.jsxs)("div", {
+                                className: "xl:max-w-1140 custom-md-3:max-w-[calc(100%-195px)] lg:max-w-960 md:max-w-720 sm:max-w-540 xs:max-w-full mx-auto",
                                 children: [(0, a.jsxs)("div", {
-                                    className: "xl:basis-1/2 lg:basis-5/12 down-lg:basis-full",
-                                    children: [(0, a.jsx)("h3", {
-                                        className: "uppercase text-fs-26 xs:text-fs-21 pb-22 text-white font-semibold",
-                                        children: "personal infos"
-                                    }), (0, a.jsx)("img", {
-                                        className: "hidden xs:block rounded-full border-4 border-solid border-black-3 w-230 h-230 mb-25 mx-auto",
-                                        src: "assets/img/dark-img-mobile.jpg",
-                                        alt: ""
-                                    }), (0, a.jsx)("div", {
-                                        className: "flex justify-between xs:justify-start font-Open-sans",
-                                        children: r.map(e => (0, a.jsx)("div", {
-                                            className: "basis-1/2 [&>div]:pb-20 [&>div:last-child]:pb-0 text-fs-15 xs:text-fs-14",
-                                            children: e.data.map(e => (0, a.jsxs)("div", {
-                                                children: [(0, a.jsxs)("span", {
-                                                    className: "opacity-80",
-                                                    children: [e.type, " : "]
-                                                }), (0, a.jsx)("span", {
-                                                    className: "xs:block custom-md-2:block font-semibold",
-                                                    children: e.value
-                                                })]
+                                    className: "flex flex-row down-lg:flex-col",
+                                    children: [(0, a.jsxs)("div", {
+                                        className: "xl:basis-1/2 lg:basis-5/12 down-lg:basis-full",
+                                        children: [(0, a.jsx)("h3", {
+                                            className: "uppercase text-fs-26 xs:text-fs-21 pb-22 text-white font-semibold",
+                                            children: "personal infos"
+                                        }), (0, a.jsx)("img", {
+                                            className: "hidden xs:block rounded-full border-4 border-solid border-black-3 w-230 h-230 mb-25 mx-auto",
+                                            src: "assets/img/dark-img-mobile.jpg",
+                                            alt: ""
+                                        }), (0, a.jsx)("div", {
+                                            className: "flex justify-between xs:justify-start font-Open-sans",
+                                            children: r.map(e => (0, a.jsx)("div", {
+                                                className: "basis-1/2 [&>div]:pb-20 [&>div:last-child]:pb-0 text-fs-15 xs:text-fs-14",
+                                                children: e.data.map(e => (0, a.jsxs)("div", {
+                                                    children: [(0, a.jsxs)("span", {
+                                                        className: "opacity-80",
+                                                        children: [e.type, " : "]
+                                                    }), (0, a.jsx)("span", {
+                                                        className: "xs:block custom-md-2:block font-semibold",
+                                                        children: e.value
+                                                    })]
+                                                }, e.id))
                                             }, e.id))
-                                        }, e.id))
-                                    }), (0, a.jsxs)("a", {
-                                        className: "button group mt-30 overflow-hidden inline-block leading-lh-1.4 rounded-30 text-ellipsis text-center align-middle select-none transition-all duration-250 ease-in-out uppercase no-underline relative z-10 py-16 pr-70 pl-35 text-fs-15 font-semibold text-white bg-transparent outline-0 before:absolute before:-z-10 before:left-0 before:right-0 before:top-0 before:bottom-0 before:translate-x-full hover:before:translate-x-0 before:transition before:duration-300 before:ease-out",
-                                        href: "assets/cv/cv-dev.pdf",
-                                        children: [(0, a.jsx)("span", {
-                                            className: "relative z-20 text-".concat(e ? "white" : "black-6 group-hover:text-white transition-all duration-300"),
-                                            children: "download cv"
-                                        }), (0, a.jsx)("span", {
-                                            className: "absolute -right-px bottom-0 w-55 h-55 flex items-center justify-center rounded-full text-white text-fs-19 fa fa-download bg-accent"
+                                        }), (0, a.jsxs)("a", {
+                                            className: "button group mt-30 overflow-hidden inline-block leading-lh-1.4 rounded-30 text-ellipsis text-center align-middle select-none transition-all duration-250 ease-in-out uppercase no-underline relative z-10 py-16 pr-70 pl-35 text-fs-15 font-semibold text-white bg-transparent outline-0 before:absolute before:-z-10 before:left-0 before:right-0 before:top-0 before:bottom-0 before:translate-x-full hover:before:translate-x-0 before:transition before:duration-300 before:ease-out",
+                                            href: "assets/cv/cv-dev.pdf",
+                                            children: [(0, a.jsx)("span", {
+                                                className: "relative z-20 text-".concat(e ? "white" : "black-6 group-hover:text-white transition-all duration-300"),
+                                                children: "download cv"
+                                            }), (0, a.jsx)("span", {
+                                                className: "absolute -right-px bottom-0 w-55 h-55 flex items-center justify-center rounded-full text-white text-fs-19 fa fa-download bg-accent"
+                                            })]
                                         })]
-                                    })]
-                                }), 
-                                (0, a.jsx)("div", {
-                                    className: "xl:basis-1/2 lg:basis-7/12 down-lg:basis-full down-lg:mt-50",
-                                    children: (0, a.jsx)("div", {
-                                        className: "flex down-lg:-mx-15 flex-wrap",
-                                        children: c.map(t => (0, a.jsx)("div", {
-                                            className: "w-1/2 px-15",
-                                            children: (0, a.jsxs)("div", {
-                                                className: "pt-20 xs:pt-15 pr-30 xs:pr-20 pb-25 xs:pb-20 pl-40 xs:pl-25 border border-".concat(e ? "black-3" : "grey", " rounded-5 mb-30 xs:mb-25"),
-                                                children: [(0, a.jsx)("h3", {
-                                                    className: "relative inline-block font-bold text-fs-50 xs:text-fs-40 text-accent leading-lh-1.2 after:content-['+'] after:absolute after:-right-24 after:text-fs-33 after:font-light after:top-2",
-                                                    children: t.value
-                                                }), (0, a.jsx)("p", {
-                                                    dangerouslySetInnerHTML: {
-                                                        __html: t.title
-                                                    },
-                                                    className: "relative xs:text-fs-14 uppercase pl-45 xs:pl-0 xs:before:hidden font-Open-sans font-medium before:absolute before:left-0 before:top-13 before:w-30 before:h-1 before:bg-black-5"
-                                                })]
-                                            })
-                                        }, t.id))
                                     }),
-                                    
-                                })]
-                            }), (0, a.jsx)("hr", {
-                                className: "border-t border-solid border-t-".concat(e ? "black-3" : "grey", " mx-auto max-w-40prcent mt-70 mb-55")
-                            }), (0, a.jsx)("h3", {
-                                className: "uppercase text-fs-26 xs:text-fs-21 pb-48 text-white font-semibold text-center",
-                                children: "Tech stack"
-                            }),
+                                    (0, a.jsx)("div", {
+                                        className: "xl:basis-1/2 lg:basis-7/12 down-lg:basis-full down-lg:mt-50",
+                                        children: (0, a.jsx)("div", {
+                                            className: "flex down-lg:-mx-15 flex-wrap",
+                                            children: c.map(t => (0, a.jsx)("div", {
+                                                className: "w-1/2 px-15",
+                                                children: (0, a.jsxs)("div", {
+                                                    className: "pt-20 xs:pt-15 pr-30 xs:pr-20 pb-25 xs:pb-20 pl-40 xs:pl-25 border border-".concat(e ? "black-3" : "grey", " rounded-5 mb-30 xs:mb-25"),
+                                                    children: [(0, a.jsx)("h3", {
+                                                        className: "relative inline-block font-bold text-fs-50 xs:text-fs-40 text-accent leading-lh-1.2 after:content-['+'] after:absolute after:-right-24 after:text-fs-33 after:font-light after:top-2",
+                                                        children: t.value
+                                                    }), (0, a.jsx)("p", {
+                                                        dangerouslySetInnerHTML: {
+                                                            __html: t.title
+                                                        },
+                                                        className: "relative xs:text-fs-14 uppercase pl-45 xs:pl-0 xs:before:hidden font-Open-sans font-medium before:absolute before:left-0 before:top-13 before:w-30 before:h-1 before:bg-black-5"
+                                                    })]
+                                                })
+                                            }, t.id))
+                                        }),
+
+                                    })]
+                                }), (0, a.jsx)("hr", {
+                                    className: "border-t border-solid border-t-".concat(e ? "black-3" : "grey", " mx-auto max-w-40prcent mt-70 mb-55")
+                                }), (0, a.jsx)("h3", {
+                                    className: "uppercase text-fs-26 xs:text-fs-21 pb-48 text-white font-semibold text-center",
+                                    children: "Tech stack"
+                                }),
                                 (0, a.jsx)("div", {
                                     className: "xl:basis-1/2 lg:basis-7/12 down-lg:basis-full down-lg:mt-50",
                                     children: (0, a.jsx)("div", {
@@ -281,94 +281,94 @@
 
                                 })
 
-                            
-                            , (0, a.jsx)("hr", {
-                                className: "border-t border-solid border-t-".concat(e ? "black-3" : "grey", " mx-auto max-w-40prcent mt-70 mb-55")
-                            }), (0, a.jsx)("h3", {
-                                className: "uppercase text-fs-26 xs:text-fs-21 pb-48 text-white font-semibold text-center",
-                                children: "my skills"
-                            }), (0, a.jsx)("div", {
-                                className: "flex w-full flex-wrap",
-                                children: m.map(t => (0, a.jsxs)("div", {
-                                    className: "w-1/4 mb-48 down-sm:w-1/2 xs:mb-16",
-                                    children: [(0, a.jsxs)("div", {
-                                        className: "c100 p".concat(t.value, " float-none mx-auto ").concat(e ? "bg-black-3" : "bg-light-grey after:!bg-white"),
-                                        children: [(0, a.jsxs)("span", {
-                                            className: e ? "" : "!text-black-6",
-                                            children: [t.value, "%"]
-                                        }), (0, a.jsxs)("div", {
-                                            className: "slice",
-                                            children: [(0, a.jsx)("div", {
-                                                className: "bar"
-                                            }), (0, a.jsx)("div", {
-                                                className: "fill"
+
+                                    , (0, a.jsx)("hr", {
+                                        className: "border-t border-solid border-t-".concat(e ? "black-3" : "grey", " mx-auto max-w-40prcent mt-70 mb-55")
+                                    }), (0, a.jsx)("h3", {
+                                        className: "uppercase text-fs-26 xs:text-fs-21 pb-48 text-white font-semibold text-center",
+                                        children: "my skills"
+                                    }), (0, a.jsx)("div", {
+                                        className: "flex w-full flex-wrap",
+                                        children: m.map(t => (0, a.jsxs)("div", {
+                                            className: "w-1/4 mb-48 down-sm:w-1/2 xs:mb-16",
+                                            children: [(0, a.jsxs)("div", {
+                                                className: "c100 p".concat(t.value, " float-none mx-auto ").concat(e ? "bg-black-3" : "bg-light-grey after:!bg-white"),
+                                                children: [(0, a.jsxs)("span", {
+                                                    className: e ? "" : "!text-black-6",
+                                                    children: [t.value, "%"]
+                                                }), (0, a.jsxs)("div", {
+                                                    className: "slice",
+                                                    children: [(0, a.jsx)("div", {
+                                                        className: "bar"
+                                                    }), (0, a.jsx)("div", {
+                                                        className: "fill"
+                                                    })]
+                                                })]
+                                            }), (0, a.jsx)("h6", {
+                                                className: "uppercase font-Open-sans text-center mt-24 xs:mt-8",
+                                                children: t.name
                                             })]
+                                        }, t.id))
+                                    }), (0, a.jsx)("hr", {
+                                        className: "border-t border-solid border-t-".concat(e ? "black-3" : "grey", " mx-auto max-w-40prcent mt-35 mb-55")
+                                    }), (0, a.jsx)("h3", {
+                                        className: "uppercase text-fs-26 xs:text-fs-21 pb-48 text-white font-semibold text-center",
+                                        children: "experience & education"
+                                    }), (0, a.jsxs)("div", {
+                                        className: "flex down-sm:flex-col from-sm:mb-40",
+                                        children: [(0, a.jsx)("div", {
+                                            className: "w-1/2 down-sm:w-full",
+                                            children: (0, a.jsx)("ul", {
+                                                children: d.map(t => (0, a.jsxs)("li", {
+                                                    className: "relative pr-20 pl-60 mb-50 after:absolute after:top-0 after:left-20 after:bg-".concat(e ? "black-4" : "grey", " after:w-1 after:h-full"),
+                                                    children: [(0, a.jsx)("div", {
+                                                        className: "bg-accent w-40 h-40 absolute left-0 leading-lh-40 text-center z-10 rounded-full text-white",
+                                                        children: (0, a.jsx)("i", {
+                                                            className: "fa fa-briefcase"
+                                                        })
+                                                    }), (0, a.jsx)("span", {
+                                                        className: "text-".concat(e ? "white" : "black-6", " text-fs-12 py-1 px-10 inline-block mb-12 rounded-20 font-semibold bg-").concat(e ? "black-3" : "light-grey", " opacity-80 font-Open-sans uppercase"),
+                                                        children: t.date
+                                                    }), (0, a.jsxs)("h5", {
+                                                        className: "uppercase text-fs-18 mt-7 mb-10",
+                                                        children: [t.title, (0, a.jsx)("span", {
+                                                            className: "opacity-80 font-semibold text-fs-15 relative pl-26 font-Open-sans before:absolute before:w-10 before:h-2 before:bg-".concat(e ? "white" : "black-6", " before:left-7 before:top-9 before:opacity-80"),
+                                                            children: t.company
+                                                        })]
+                                                    }), (0, a.jsx)("p", {
+                                                        className: "font-Open-sans ".concat(e ? "text-light-grey" : "", " text-fs-14"),
+                                                        children: t.desc
+                                                    })]
+                                                }, t.id))
+                                            })
+                                        }), (0, a.jsx)("div", {
+                                            className: "w-1/2 down-sm:w-full",
+                                            children: (0, a.jsx)("ul", {
+                                                children: u.map(t => (0, a.jsxs)("li", {
+                                                    className: "relative pr-20 pl-60 mb-50 after:absolute after:top-0 after:left-20 after:bg-".concat(e ? "black-4" : "grey", " after:w-1 after:h-full"),
+                                                    children: [(0, a.jsx)("div", {
+                                                        className: "bg-accent w-40 h-40 absolute left-0 leading-lh-40 text-center z-10 rounded-full text-white",
+                                                        children: (0, a.jsx)("i", {
+                                                            className: "fa fa-graduation-cap"
+                                                        })
+                                                    }), (0, a.jsx)("span", {
+                                                        className: "text-".concat(e ? "white" : "black-6", " text-fs-12 py-1 px-10 inline-block mb-12 rounded-20 font-semibold bg-").concat(e ? "black-3" : "light-grey", " opacity-80 font-Open-sans uppercase"),
+                                                        children: t.date
+                                                    }), (0, a.jsxs)("h5", {
+                                                        className: "uppercase text-fs-18 mt-7 mb-10",
+                                                        children: [t.title, (0, a.jsx)("span", {
+                                                            className: "opacity-80 font-semibold text-fs-15 relative pl-26 font-Open-sans before:absolute before:w-10 before:h-2 before:bg-".concat(e ? "white" : "black-6", " before:left-7 before:top-9 before:opacity-80"),
+                                                            children: t.unv
+                                                        })]
+                                                    }), (0, a.jsx)("p", {
+                                                        className: "font-Open-sans ".concat(e ? "text-light-grey" : "", " text-fs-14"),
+                                                        children: t.desc
+                                                    })]
+                                                }, t.id))
+                                            })
                                         })]
-                                    }), (0, a.jsx)("h6", {
-                                        className: "uppercase font-Open-sans text-center mt-24 xs:mt-8",
-                                        children: t.name
                                     })]
-                                }, t.id))
-                            }), (0, a.jsx)("hr", {
-                                className: "border-t border-solid border-t-".concat(e ? "black-3" : "grey", " mx-auto max-w-40prcent mt-35 mb-55")
-                            }), (0, a.jsx)("h3", {
-                                className: "uppercase text-fs-26 xs:text-fs-21 pb-48 text-white font-semibold text-center",
-                                children: "experience & education"
-                            }), (0, a.jsxs)("div", {
-                                className: "flex down-sm:flex-col from-sm:mb-40",
-                                children: [(0, a.jsx)("div", {
-                                    className: "w-1/2 down-sm:w-full",
-                                    children: (0, a.jsx)("ul", {
-                                        children: d.map(t => (0, a.jsxs)("li", {
-                                            className: "relative pr-20 pl-60 mb-50 after:absolute after:top-0 after:left-20 after:bg-".concat(e ? "black-4" : "grey", " after:w-1 after:h-full"),
-                                            children: [(0, a.jsx)("div", {
-                                                className: "bg-accent w-40 h-40 absolute left-0 leading-lh-40 text-center z-10 rounded-full text-white",
-                                                children: (0, a.jsx)("i", {
-                                                    className: "fa fa-briefcase"
-                                                })
-                                            }), (0, a.jsx)("span", {
-                                                className: "text-".concat(e ? "white" : "black-6", " text-fs-12 py-1 px-10 inline-block mb-12 rounded-20 font-semibold bg-").concat(e ? "black-3" : "light-grey", " opacity-80 font-Open-sans uppercase"),
-                                                children: t.date
-                                            }), (0, a.jsxs)("h5", {
-                                                className: "uppercase text-fs-18 mt-7 mb-10",
-                                                children: [t.title, (0, a.jsx)("span", {
-                                                    className: "opacity-80 font-semibold text-fs-15 relative pl-26 font-Open-sans before:absolute before:w-10 before:h-2 before:bg-".concat(e ? "white" : "black-6", " before:left-7 before:top-9 before:opacity-80"),
-                                                    children: t.company
-                                                })]
-                                            }), (0, a.jsx)("p", {
-                                                className: "font-Open-sans ".concat(e ? "text-light-grey" : "", " text-fs-14"),
-                                                children: t.desc
-                                            })]
-                                        }, t.id))
-                                    })
-                                }), (0, a.jsx)("div", {
-                                    className: "w-1/2 down-sm:w-full",
-                                    children: (0, a.jsx)("ul", {
-                                        children: u.map(t => (0, a.jsxs)("li", {
-                                            className: "relative pr-20 pl-60 mb-50 after:absolute after:top-0 after:left-20 after:bg-".concat(e ? "black-4" : "grey", " after:w-1 after:h-full"),
-                                            children: [(0, a.jsx)("div", {
-                                                className: "bg-accent w-40 h-40 absolute left-0 leading-lh-40 text-center z-10 rounded-full text-white",
-                                                children: (0, a.jsx)("i", {
-                                                    className: "fa fa-graduation-cap"
-                                                })
-                                            }), (0, a.jsx)("span", {
-                                                className: "text-".concat(e ? "white" : "black-6", " text-fs-12 py-1 px-10 inline-block mb-12 rounded-20 font-semibold bg-").concat(e ? "black-3" : "light-grey", " opacity-80 font-Open-sans uppercase"),
-                                                children: t.date
-                                            }), (0, a.jsxs)("h5", {
-                                                className: "uppercase text-fs-18 mt-7 mb-10",
-                                                children: [t.title, (0, a.jsx)("span", {
-                                                    className: "opacity-80 font-semibold text-fs-15 relative pl-26 font-Open-sans before:absolute before:w-10 before:h-2 before:bg-".concat(e ? "white" : "black-6", " before:left-7 before:top-9 before:opacity-80"),
-                                                    children: t.unv
-                                                })]
-                                            }), (0, a.jsx)("p", {
-                                                className: "font-Open-sans ".concat(e ? "text-light-grey" : "", " text-fs-14"),
-                                                children: t.desc
-                                            })]
-                                        }, t.id))
-                                    })
-                                })]
                             })]
-                        })]
                     })
                 })
             }
@@ -464,68 +464,68 @@
                                     bigTitle: "posts",
                                     colorTitle: "blog",
                                     normalTitle: "my"
-                                }), 
-                                    (0, a.jsx)("p", {
-                                        className: "flex mx-auto w-2/3 text-fs-20 xs:text-fs-21 mb-16 font-semibold",
-                                        children: "Thank you so much for visiting my profile! I appreciate your interest. At the moment, I haven’t had the chance to write any blogs yet, but I plan to create more content in the near future. Please check back later for updates. If you have any questions or would like to discuss topics of interest, feel free to reach out. Stay tuned for more blog posts coming soon!"
-                                    })
-                                // (0, a.jsxs)("div", {
-                                //     className: "xl:max-w-1140 lg:max-w-960 md:max-w-720 sm:max-w-540 xs:max-w-full mx-auto",
-                                //     children: [(0, a.jsx)("div", {
-                                //         className: "flex flex-wrap down-sm:flex-col",
-                                //         children: u.map(e => (0, a.jsx)("div", {
-                                //             className: "w-1/3 down-xl:w-1/2 down-sm:w-full px-16 xs:px-0 mb-30 blog-list-item",
-                                //             children: (0, a.jsxs)("div", {
-                                //                 className: "h-full bg-".concat(p ? "black-3" : "light-grey-3", " rounded-5"),
-                                //                 children: [(0, a.jsx)("div", {
-                                //                     className: "rounded-t-5 cursor-pointer post-thumb",
-                                //                     children: (0, a.jsx)("a", {
-                                //                         href: "#",
-                                //                         onClick: () => {
-                                //                             f(e), m("blog-details")
-                                //                         },
-                                //                         className: "rounded-t-5 relative overflow-hidden block group outline-0 transition-all duration-300",
-                                //                         children: (0, a.jsx)("img", {
-                                //                             className: "rounded-t-5 transition-all duration-300 group-hover:scale-125",
-                                //                             src: e.img,
-                                //                             alt: ""
-                                //                         })
-                                //                     })
-                                //                 }), (0, a.jsxs)("div", {
-                                //                     className: "bg-".concat(p ? "black-3" : "light-grey-3", " pt-20 px-25 pb-25 rounded-b-5"),
-                                //                     children: [(0, a.jsx)("a", {
-                                //                         href: "#",
-                                //                         onClick: () => {
-                                //                             f(e), m("blog-details")
-                                //                         },
-                                //                         className: "leading-lh-26 text-fs-20 font-semibold text-accent-hover transition duration-300",
-                                //                         children: e.title
-                                //                     }), (0, a.jsxs)("p", {
-                                //                         className: "mt-15 mb-5 font-Open-sans",
-                                //                         children: [e.desc.slice(0, 100), "..."]
-                                //                     })]
-                                //                 })]
-                                //             })
-                                //         }, e.id))
-                                //     }), (0, a.jsx)("nav", {
-                                //         className: "mt-24",
-                                //         children: (0, a.jsx)("ul", {
-                                //             className: "flex justify-center from-sm:mb-100 down-sm:mb-60",
-                                //             children: i && i.map((i, s) => (0, a.jsx)("li", {
-                                //                 className: "".concat(e === i ? "active" : ""),
-                                //                 children: (0, a.jsx)("a", {
-                                //                     className: "w-43 h-43 transition-all duration-300 text-center block leading-lh-45 bg-accent-hover rounded-full mx-5\n                        ".concat(p ? "" : "bg-light-grey hover:text-white", "\n                        ").concat(e === i ? "bg-accent text-white" : "bg-black-3"),
-                                //                     href: "#",
-                                //                     onClick: e => {
-                                //                         e.preventDefault(), t(i)
-                                //                     },
-                                //                     children: i
-                                //                 })
-                                //             }, s))
-                                //         })
-                                //     })]
-                                // })
-                            ]
+                                }),
+                                (0, a.jsx)("p", {
+                                    className: "flex mx-auto xl:max-w-1140 lg:max-w-960 md:max-w-720 sm:max-w-540 xs:max-w-full text-fs-20 xs:text-fs-21 mb-16 font-semibold",
+                                    children: "Thank you so much for visiting my profile! I appreciate your interest. At the moment, I haven’t had the chance to write any blogs yet, but I plan to create more content in the near future. Please check back later for updates. If you have any questions or would like to discuss topics of interest, feel free to reach out. Stay tuned for more blog posts coming soon!"
+                                })
+                                    // (0, a.jsxs)("div", {
+                                    //     className: "xl:max-w-1140 lg:max-w-960 md:max-w-720 sm:max-w-540 xs:max-w-full mx-auto",
+                                    //     children: [(0, a.jsx)("div", {
+                                    //         className: "flex flex-wrap down-sm:flex-col",
+                                    //         children: u.map(e => (0, a.jsx)("div", {
+                                    //             className: "w-1/3 down-xl:w-1/2 down-sm:w-full px-16 xs:px-0 mb-30 blog-list-item",
+                                    //             children: (0, a.jsxs)("div", {
+                                    //                 className: "h-full bg-".concat(p ? "black-3" : "light-grey-3", " rounded-5"),
+                                    //                 children: [(0, a.jsx)("div", {
+                                    //                     className: "rounded-t-5 cursor-pointer post-thumb",
+                                    //                     children: (0, a.jsx)("a", {
+                                    //                         href: "#",
+                                    //                         onClick: () => {
+                                    //                             f(e), m("blog-details")
+                                    //                         },
+                                    //                         className: "rounded-t-5 relative overflow-hidden block group outline-0 transition-all duration-300",
+                                    //                         children: (0, a.jsx)("img", {
+                                    //                             className: "rounded-t-5 transition-all duration-300 group-hover:scale-125",
+                                    //                             src: e.img,
+                                    //                             alt: ""
+                                    //                         })
+                                    //                     })
+                                    //                 }), (0, a.jsxs)("div", {
+                                    //                     className: "bg-".concat(p ? "black-3" : "light-grey-3", " pt-20 px-25 pb-25 rounded-b-5"),
+                                    //                     children: [(0, a.jsx)("a", {
+                                    //                         href: "#",
+                                    //                         onClick: () => {
+                                    //                             f(e), m("blog-details")
+                                    //                         },
+                                    //                         className: "leading-lh-26 text-fs-20 font-semibold text-accent-hover transition duration-300",
+                                    //                         children: e.title
+                                    //                     }), (0, a.jsxs)("p", {
+                                    //                         className: "mt-15 mb-5 font-Open-sans",
+                                    //                         children: [e.desc.slice(0, 100), "..."]
+                                    //                     })]
+                                    //                 })]
+                                    //             })
+                                    //         }, e.id))
+                                    //     }), (0, a.jsx)("nav", {
+                                    //         className: "mt-24",
+                                    //         children: (0, a.jsx)("ul", {
+                                    //             className: "flex justify-center from-sm:mb-100 down-sm:mb-60",
+                                    //             children: i && i.map((i, s) => (0, a.jsx)("li", {
+                                    //                 className: "".concat(e === i ? "active" : ""),
+                                    //                 children: (0, a.jsx)("a", {
+                                    //                     className: "w-43 h-43 transition-all duration-300 text-center block leading-lh-45 bg-accent-hover rounded-full mx-5\n                        ".concat(p ? "" : "bg-light-grey hover:text-white", "\n                        ").concat(e === i ? "bg-accent text-white" : "bg-black-3"),
+                                    //                     href: "#",
+                                    //                     onClick: e => {
+                                    //                         e.preventDefault(), t(i)
+                                    //                     },
+                                    //                     children: i
+                                    //                 })
+                                    //             }, s))
+                                    //         })
+                                    //     })]
+                                    // })
+                                ]
                             })
                         }), x && (0, a.jsx)(c, {
                             blog: x
@@ -543,8 +543,8 @@
                 s = i(2046),
                 o = i(8692);
             let l = {
-                    _origin: "https://api.emailjs.com"
-                },
+                _origin: "https://api.emailjs.com"
+            },
                 n = (e, t, i) => {
                     if (!e) throw "The user ID is required. Visit https://dashboard.emailjs.com/admin/integration";
                     if (!t) throw "The service ID is required. Visit https://dashboard.emailjs.com/admin";
@@ -557,49 +557,49 @@
                 }
             }
             let c = (e, t, i = {}) => new Promise((a, s) => {
-                    let o = new XMLHttpRequest;
-                    o.addEventListener("load", ({
-                        target: e
-                    }) => {
-                        let t = new r(e);
-                        200 === t.status || "OK" === t.text ? a(t) : s(t)
-                    }), o.addEventListener("error", ({
-                        target: e
-                    }) => {
-                        s(new r(e))
-                    }), o.open("POST", l._origin + e, !0), Object.keys(i).forEach(e => {
-                        o.setRequestHeader(e, i[e])
-                    }), o.send(t)
-                }),
+                let o = new XMLHttpRequest;
+                o.addEventListener("load", ({
+                    target: e
+                }) => {
+                    let t = new r(e);
+                    200 === t.status || "OK" === t.text ? a(t) : s(t)
+                }), o.addEventListener("error", ({
+                    target: e
+                }) => {
+                    s(new r(e))
+                }), o.open("POST", l._origin + e, !0), Object.keys(i).forEach(e => {
+                    o.setRequestHeader(e, i[e])
+                }), o.send(t)
+            }),
                 d = e => {
                     let t;
                     if (!(t = "string" == typeof e ? document.querySelector(e) : e) || "FORM" !== t.nodeName) throw "The 3rd parameter is expected to be the HTML form element or the style selector of form";
                     return t
                 };
             var u = {
-                    init: (e, t = "https://api.emailjs.com") => {
-                        l._userID = e, l._origin = t
-                    },
-                    send: (e, t, i, a) => {
-                        let s = a || l._userID;
-                        return n(s, e, t), c("/api/v1.0/email/send", JSON.stringify({
-                            lib_version: "3.2.0",
-                            user_id: s,
-                            service_id: e,
-                            template_id: t,
-                            template_params: i
-                        }), {
-                            "Content-type": "application/json"
-                        })
-                    },
-                    sendForm: (e, t, i, a) => {
-                        let s = a || l._userID,
-                            o = d(i);
-                        n(s, e, t);
-                        let r = new FormData(o);
-                        return r.append("lib_version", "3.2.0"), r.append("service_id", e), r.append("template_id", t), r.append("user_id", s), c("/api/v1.0/email/send-form", r)
-                    }
+                init: (e, t = "https://api.emailjs.com") => {
+                    l._userID = e, l._origin = t
                 },
+                send: (e, t, i, a) => {
+                    let s = a || l._userID;
+                    return n(s, e, t), c("/api/v1.0/email/send", JSON.stringify({
+                        lib_version: "3.2.0",
+                        user_id: s,
+                        service_id: e,
+                        template_id: t,
+                        template_params: i
+                    }), {
+                        "Content-type": "application/json"
+                    })
+                },
+                sendForm: (e, t, i, a) => {
+                    let s = a || l._userID,
+                        o = d(i);
+                    n(s, e, t);
+                    let r = new FormData(o);
+                    return r.append("lib_version", "3.2.0"), r.append("service_id", e), r.append("template_id", t), r.append("user_id", s), c("/api/v1.0/email/send-form", r)
+                }
+            },
                 m = i(2265),
                 p = i(5770);
             let x = [{
@@ -664,14 +664,19 @@
                             children: (0, a.jsxs)("div", {
                                 className: "flex down-lg:flex-col",
                                 children: [(0, a.jsxs)("div", {
-                                    className: "w-3/3 down-lg:w-full px-16 xs:px-0",
+                                    className: "w-full down-lg:w-full px-16 xs:px-0",
                                     children: [(0, a.jsx)("h3", {
                                         className: "text-fs-26 xs:text-fs-21 mb-16 font-semibold uppercase",
                                         children: "Thank you for visiting my profile!"
-                                    }), (0, a.jsx)("p", { 
-                                        className: "mb-16 font-Open-sans text-fs-20 xs:text-fs-20",
+                                    }), (0, a.jsx)("p", {
+                                        className: "mb-40 font-Open-sans text-fs-20 xs:text-fs-20",
                                         children: "If there's anything I can assist you with, please don't hesitate to reach out. I'm always here to help and would be glad to support you in any way I can. You can contact me through the methods provided below."
-                                    }), (0, a.jsxs)("div", {
+                                    }),
+                                    (0, a.jsx)("h3", {
+                                        className: "text-begin text-fs-20 xs:text-fs-18 font-semibold",
+                                        children: "Contact to me via"
+                                    }),
+                                    (0, a.jsxs)("div", {
                                         className: "relative font-Open-sans font-semibold pl-50 pt-5 leading-lh-21 text-fs-15 xs:text-fs-14 mb-16",
                                         children: [(0, a.jsx)("i", {
                                             className: "fa fa-envelope-open absolute left-0 top-10 text-fs-33 text-accent"
@@ -679,27 +684,59 @@
                                             className: "block opacity-80 uppercase font-normal",
                                             children: "mail me"
                                         }), "nguyentanphatuit@mail.com"]
-                                    }), (0, a.jsxs)("div", {
+                                    }),
+                                    (0, a.jsxs)("div", {
                                         className: "relative font-Open-sans font-semibold pl-50 pt-5 leading-lh-21 text-fs-15 xs:text-fs-14 mb-16",
                                         children: [(0, a.jsx)("i", {
                                             className: "fa fa-phone-square absolute left-0 top-10 text-fs-39 text-accent"
                                         }), (0, a.jsx)("span", {
                                             className: "block opacity-80 uppercase font-normal",
-                                            children: "call me"
-                                        }), "+84 869164648"]
-                                    }), (0, a.jsx)("ul", {
-                                        className: "-ml-5 pt-4 mb-48",
-                                        children: x.map(t => (0, a.jsx)("li", {
-                                            className: "inline-block",
-                                            children: (0, a.jsx)("a", {
-                                                href: t.link,
-                                                className: "social-item inline-block h-40 w-40 leading-lh-42 text-center text-".concat(e ? "white" : "black-6", " transition duration-300 text-fs-17 mx-6 bg-").concat(e ? "black-2" : "light-grey hover:text-white", " rounded-full"),
-                                                children: (0, a.jsx)("i", {
-                                                    className: t.icon
+                                            children: "Call me or Zalo"
+                                        }), "(+84) 869 164 648"]
+                                    })
+                                        , (0, a.jsxs)("div", {
+                                            className: "relative font-Open-sans font-semibold pl-50 pt-5 leading-lh-21 text-fs-15 xs:text-fs-14 mb-16",
+                                            children: [(0, a.jsx)("i", {
+                                                className: "fa fa-facebook absolute left-0 top-10 text-fs-39 text-accent"
+                                            }), (0, a.jsx)("span", {
+                                                className: "block opacity-80 uppercase font-normal",
+                                                children: "Facebook",
+                                                href: "https://www.facebook.com/nguyentanphatuit",
+                                            }), "https://www.facebook.com/nguyentanphatuit"]
+                                        })
+                                        , (0, a.jsxs)("div", {
+                                            className: "relative font-Open-sans font-semibold pl-50 pt-5 leading-lh-21 text-fs-15 xs:text-fs-14 mb-16",
+                                            children: [(0, a.jsx)("i", {
+                                                className: "fa fa-linkedin absolute left-0 top-10 text-fs-39 text-accent"
+                                            }), (0, a.jsx)("span", {
+                                                className: "block opacity-80 uppercase font-normal",
+                                                children: "LinkedIn",
+                                                href: "https://www.linkedin.com/in/seeZ",
+                                            }), "https://www.linkedin.com/in/seeZ"]
+                                        })
+                                        , (0, a.jsxs)("div", {
+                                            className: "relative font-Open-sans font-semibold pl-50 pt-5 leading-lh-21 text-fs-15 xs:text-fs-14 mb-16",
+                                            children: [(0, a.jsx)("i", {
+                                                className: "fa fa-github absolute left-0 top-10 text-fs-39 text-accent"
+                                            }), (0, a.jsx)("span", {
+                                                className: "block opacity-80 uppercase font-normal",
+                                                children: "github",
+                                                href: "https://github.com/nguyentanphatka",
+                                            }), "https://github.com/nguyentanphatka"]
+                                        })
+                                        , (0, a.jsx)("ul", {
+                                            className: "-ml-5 pt-4 mb-48",
+                                            children: x.map(t => (0, a.jsx)("li", {
+                                                className: "inline-block w-100 h-100 content-end",
+                                                children: (0, a.jsx)("a", {
+                                                    href: t.link,
+                                                    className: "social-item inline-block h-40 w-40 leading-lh-42 text-center text-".concat(e ? "white" : "black-6", " transition duration-300 text-fs-17 mx-6 bg-").concat(e ? "black-2" : "light-grey hover:text-white", " rounded-full"),
+                                                    children: (0, a.jsx)("i", {
+                                                        className: t.icon.concat(" text-[40px]")
+                                                    })
                                                 })
-                                            })
-                                        }, t.id))
-                                    })]
+                                            }, t.id))
+                                        })]
                                 })]
                             })
                         })]
@@ -739,15 +776,24 @@
                                     className: "hidden down-lg:block xs:!hidden rounded-full w-270 h-270 mx-auto mb-25 border-4 border-solid border-black-3",
                                     alt: "my picture"
                                 }), (0, a.jsxs)("h1", {
-                                    className: "text-fs-51 text-accent font-Poppins relative uppercase font-bold leading-lh-62 pl-70 before:absolute before:left-0 before:top-29 before:h-4 before:w-40 before:rounded-10 custom-md-2:text-fs-42 down-xl:before:hidden down-xl:pl-0 custom-md-2:leading-lh-52 down-md:text-fs-38 down-md:leading-lh-48 down-md:mt-29 down-md:mb-13 xs:text-fs-29 xs:leading-lh-39 xs:mt-18",
-                                    children: ["I'm Phat-Nguyen Tan", (0, a.jsx)("span", {
+                                    className: "text-fs-45 text-accent font-Poppins relative uppercase font-bold leading-lh-62 pl-70 before:absolute before:left-0 before:top-29 before:h-4 before:w-40 before:rounded-10 custom-md-2:text-fs-42 down-xl:before:hidden down-xl:pl-0 custom-md-2:leading-lh-52 down-md:text-fs-38 down-md:leading-lh-48 down-md:mt-29 down-md:mb-13 xs:text-fs-29 xs:leading-lh-39 xs:mt-18",
+                                    children: ["Phat Nguyen - seeZ", (0, a.jsx)("span", {
                                         className: "block ".concat(n ? "text-white" : "text-black-6"),
                                         children: ".NET web developer"
                                     })]
                                 }), (0, a.jsx)("p", {
+                                    className: "font-Open-sans mt-15 mb-10 leading-lh-35 down-lg:mt-2.5 down-lg:mb-23 down-lg:text-fs-15 down-lg:leading-lh-30",
+                                    children: "Hi, I’m Nguyen Tan Phat, a .NET Developer with 4.5 years of experience working with dotNET, dotNET Framework, and dotNET Core with web API and MVC. I have extensive experience with databases and also possess front-end development skills with ReactJS and Redux, capable of researching and applying new technologies when needed."
+                                }),
+                                (0, a.jsx)("p", {
+                                    className: "font-Open-sans mt-15 mb-10 leading-lh-35 down-lg:mt-2.5 down-lg:mb-23 down-lg:text-fs-15 down-lg:leading-lh-30",
+                                    children: "I am always ready to learn and research new technologies if a project needed. I am eager to adapt and expand my skill set to meet any challenge and am passionate about delivering high-quality solutions"
+                                }),
+                                (0, a.jsx)("p", {
                                     className: "font-Open-sans mt-15 mb-28 leading-lh-35 down-lg:mt-2.5 down-lg:mb-23 down-lg:text-fs-15 down-lg:leading-lh-30",
-                                    children: "Hi, I’m Nguyen Tan Phat, a .NET Developer with 4.5 years of experience working with .NET, .NET Framework, and .NET Core MVC. I have extensive experience with databases and also possess front-end development skills when needed. I’m passionate about delivering high-quality solutions and am ready to take on new challenges."
-                                }), (0, a.jsxs)("div", {
+                                    children: "If you’re seeking a freelancer for .NET projects, feel free to reach out. I offer expertise in .NET development and am ready to contribute to your project's success. Let’s connect and discuss how I can assist with your needs!"
+                                }),
+                                (0, a.jsxs)("div", {
                                     id: "link-about",
                                     className: "button group cursor-pointer overflow-hidden inline-block leading-lh-1.4 rounded-30 text-ellipsis text-center align-middle select-none transition-all duration-250 ease-in-out uppercase no-underline relative z-10 py-16 pr-70 pl-35 text-fs-15 font-semibold text-white bg-transparent outline-0 before:absolute before:-z-10 before:left-0 before:right-0 before:top-0 before:bottom-0 before:translate-x-full hover:before:translate-x-0 before:transition before:duration-300 before:ease-out",
                                     onClick: () => i("about"),
@@ -782,59 +828,59 @@
                 langages: "HTML, CSS, Javascript",
                 previewLink: "www.youtube.com"
             }, {
-                    id: 2,
-                    title: "Alexander Rybak - OAH",
-                    type: "youtube",
-                    src: "https://www.youtube.com/embed/o4sfh2u8cgU?si=9cYOkBr4mZiw2iUw",
-                    img: "assets/img/projects/alx.jpg",
-                    project: "Website",
-                    client: "youtube",
-                    langages: "HTML, CSS, Javascript",
-                    previewLink: "www.youtube.com"
-                }, {
-                    id: 3,
+                id: 2,
+                title: "Alexander Rybak - OAH",
+                type: "youtube",
+                src: "https://www.youtube.com/embed/o4sfh2u8cgU?si=9cYOkBr4mZiw2iUw",
+                img: "assets/img/projects/alx.jpg",
+                project: "Website",
+                client: "youtube",
+                langages: "HTML, CSS, Javascript",
+                previewLink: "www.youtube.com"
+            }, {
+                id: 3,
                 title: "Alec Benjamin - Let Me Down Slowly",
-                    type: "youtube",
+                type: "youtube",
                 src: "https://www.youtube.com/embed/50VNCymT-Cs?si=kXV9QlAWStPMJkzV",
-                    img: "assets/img/projects/alec.jpg",
-                    project: "Website",
-                    client: "youtube",
-                    langages: "HTML, CSS, Javascript",
-                    previewLink: "www.youtube.com"
-                },
-                {
-                    id: 4,
-                    title: "Masked Wolf - Astronaut In The Ocean",
-                    type: "youtube",
-                    src: "https://www.youtube.com/embed/MEg-oqI9qmw?si=SwZcSe9tHkWZsNaI",
-                    img: "assets/img/projects/maxresdefault.jpg",
-                    project: "Website",
-                    client: "youtube",
-                    langages: "HTML, CSS, Javascript",
-                    previewLink: "www.youtube.com"
-                },
-                {
-                    id: 5,
-                    title: "DE YANG GATAL GATAL SA - Bukan PHO",
-                    type: "youtube",
-                    src: "https://www.youtube.com/embed/823uvXljaHE?si=qPio7Xw_oh0Ki_Gl",
-                    img: "assets/img/projects/deyang.jpg",
-                    project: "Website",
-                    client: "youtube",
-                    langages: "HTML, CSS, Javascript",
-                    previewLink: "www.youtube.com"
-                }
+                img: "assets/img/projects/alec.jpg",
+                project: "Website",
+                client: "youtube",
+                langages: "HTML, CSS, Javascript",
+                previewLink: "www.youtube.com"
+            },
+            {
+                id: 4,
+                title: "Masked Wolf - Astronaut In The Ocean",
+                type: "youtube",
+                src: "https://www.youtube.com/embed/MEg-oqI9qmw?si=SwZcSe9tHkWZsNaI",
+                img: "assets/img/projects/maxresdefault.jpg",
+                project: "Website",
+                client: "youtube",
+                langages: "HTML, CSS, Javascript",
+                previewLink: "www.youtube.com"
+            },
+            {
+                id: 5,
+                title: "DE YANG GATAL GATAL SA - Bukan PHO",
+                type: "youtube",
+                src: "https://www.youtube.com/embed/823uvXljaHE?si=qPio7Xw_oh0Ki_Gl",
+                img: "assets/img/projects/deyang.jpg",
+                project: "Website",
+                client: "youtube",
+                langages: "HTML, CSS, Javascript",
+                previewLink: "www.youtube.com"
+            }
                 , {
-                    id: 6,
-                    title: "Imagine Dragons - Believer",
-                    type: "youtube",
-                    src: "https://www.youtube.com/embed/7wtfhZwyrcc?si=u6F6NppG0UCKrJik",
-                    img: "assets/img/projects/drg.jpeg",
-                    project: "Website",
-                    client: "youtube",
-                    langages: "HTML, CSS, Javascript",
-                    previewLink: "www.youtube.com"
-                }];
+                id: 6,
+                title: "Imagine Dragons - Believer",
+                type: "youtube",
+                src: "https://www.youtube.com/embed/7wtfhZwyrcc?si=u6F6NppG0UCKrJik",
+                img: "assets/img/projects/drg.jpeg",
+                project: "Website",
+                client: "youtube",
+                langages: "HTML, CSS, Javascript",
+                previewLink: "www.youtube.com"
+            }];
             t.default = () => {
                 let {
                     popupToggle: e
@@ -848,11 +894,11 @@
                             colorTitle: "portfolio",
                             normalTitle: "my"
                         }),
-                            (0, a.jsx)("p", {
-                                className: "flex mx-auto w-2/3 text-fs-20 xs:text-fs-21 mb-16 font-semibold",
-                                children: "My portfolio is still a work in progress, but you can check out a few of my favorite tracks while it's being updated. Feel free to listen and enjoy, and thank you for your patience!"
-                            }),
-                        
+                        (0, a.jsx)("p", {
+                            className: "flex mx-auto text-center xl:max-w-1140 lg:max-w-960 md:max-w-720 sm:max-w-540 xs:max-w-full text-fs-20 xs:text-fs-21 mb-16 font-semibold",
+                            children: "My portfolio is still a work in progress, but you can check out a few of my favorite tracks while it's being updated.  Feel free to listen and enjoy, and thank you for your patience!"
+                        }),
+
                         (0, a.jsx)("div", {
                             className: "-mt-15 pb-60 xs:pb-20 portfolio",
                             children: (0, a.jsx)("div", {
@@ -1351,86 +1397,9 @@
                         className: "line m-0 h-250 w-3 rounded-4 relative overflow-hidden transition-all duration-700 before:animate-animateline before:z-10 before:absolute before:left-0 before:top-1/2 before:w-3 before:h-0 before:-translate-y-1/2 after:animate-animatebgline after:absolute after:left-0 after:w-1 after:h-full after:bg-transparent after:-translate-y-full group-[.preloaded]:opacity-0 group-[.preloaded]:!h-full group-[.preloaded]:after:opacity-0"
                     })
                 }));
-            let d = [{
-                    id: 1,
-                    name: "purple",
-                    img: "purple"
-                }, {
-                    id: 2,
-                    name: "red",
-                    img: "red"
-                }, {
-                    id: 3,
-                    name: "blueviolet",
-                    img: "blueviolet"
-                }, {
-                    id: 4,
-                    name: "blue",
-                    img: "blue"
-                }, {
-                    id: 5,
-                    name: "goldenrod",
-                    img: "goldenrod"
-                }, {
-                    id: 6,
-                    name: "magenta",
-                    img: "magenta"
-                }, {
-                    id: 7,
-                    name: "yellowgreen",
-                    img: "yellowgreen"
-                }, {
-                    id: 8,
-                    name: "orange",
-                    img: "orange"
-                }, {
-                    id: 9,
-                    name: "green",
-                    img: "green"
-                }, {
-                    id: 10,
-                    name: "yellow",
-                    img: "yellow"
-                }],
-                u = [{
-                    id: 1,
-                    name: "top",
-                    items: [{
-                        id: 1,
-                        name: "cornertopleft"
-                    }, {
-                        id: 2,
-                        name: "top"
-                    }, {
-                        id: 3,
-                        name: "cornertopright"
-                    }]
-                }, {
-                    id: 2,
-                    name: "center",
-                    items: [{
-                        id: 4,
-                        name: "left"
-                    }, {
-                        id: 5,
-                        name: "right"
-                    }]
-                }, {
-                    id: 3,
-                    name: "bottom",
-                    items: [{
-                        id: 6,
-                        name: "cornerbottomleft"
-                    }, {
-                        id: 7,
-                        name: "bottom"
-                    }, {
-                        id: 8,
-                        name: "cornerbottomright"
-                    }]
-                }];
-            var 
-            m = () => {
+
+            var
+                m = () => {
                     let [e, t] = (0, o.useState)(!1), {
                         changeColor: i,
                         changeDirection: l,
@@ -1448,31 +1417,33 @@
                 }),
                 x = () => {
                     let e = [{
-                            id: 1,
-                            title: "Home",
-                            href: "home",
-                            icon: "fa fa-home"
-                        }, {
-                            id: 2,
-                            title: "About",
-                            href: "about",
-                            icon: "fa fa-user"
-                        }, {
-                            id: 3,
-                            title: "Portfolio",
-                            href: "portfolio",
-                            icon: "fa fa-briefcase"
-                        }, {
-                            id: 4,
-                            title: "Contact",
-                            href: "contact",
-                            icon: "fa fa-envelope-open"
-                        }, {
-                            id: 5,
-                            title: "Blog",
-                            href: "blog",
-                            icon: "fa fa-comments"
-                        }],
+                        id: 1,
+                        title: "Home",
+                        href: "home",
+                        icon: "fa fa-home"
+                    }, {
+                        id: 2,
+                        title: "About",
+                        href: "about",
+                        icon: "fa fa-user"
+                    }, {
+                        id: 3,
+                        title: "Portfolio",
+                        href: "portfolio",
+                        icon: "fa fa-briefcase"
+                    }, {
+                        id: 4,
+                        title: "Contact",
+                        href: "contact",
+                        icon: "fa fa-envelope-open"
+                    }
+                        // , {
+                        //     id: 5,
+                        //     title: "Blog",
+                        //     href: "blog",
+                        //     icon: "fa fa-comments"
+                        // }
+                    ],
                         {
                             nav: t,
                             changeNav: i,
@@ -1490,13 +1461,15 @@
                                 onClick: () => i(e.href),
                                 children: [(0, a.jsx)("i", {
                                     className: "".concat(e.icon, " absolute left-0 right-0 mx-auto block text-center top-15 pointer-events-none text-fs-19 group-hover:text-white group-[.active]:text-white transition-all duration-300")
-                                }), (0, a.jsx)("div", {
-                                    className: "group block p-0 w-50 h-50",
-                                    children: (0, a.jsx)("h2", {
-                                        className: "absolute text-center -z-10 block h-50 pr-25 pl-30 text-fs-15 right-0 opacity-0 text-white leading-lh-50 font-medium transition-all duration-300 rounded-30 group-hover:opacity-100 group-hover:right-27 group-hover:rounded-tl-30 group-hover:rounded-bl-30 group-hover:rounded-tr-none group-hover:rounded-br-none",
-                                        children: e.title
+                                })
+                                    , (0, a.jsx)("div", {
+                                        className: "group block p-0 w-50 h-50",
+                                        children: (0, a.jsx)("h2", {
+                                            className: "absolute text-center -z-10 block h-50 pr-25 pl-30 text-fs-15 right-0 opacity-0 text-white leading-lh-50 font-medium transition-all duration-300 rounded-30 group-hover:opacity-100 group-hover:right-27 group-hover:rounded-tl-30 group-hover:rounded-bl-30 group-hover:rounded-tr-none group-hover:rounded-br-none",
+                                            children: e.title
+                                        })
                                     })
-                                })]
+                                ]
                             }, e.id))
                         }), (0, a.jsx)("nav", {
                             className: "hidden down-md:block relative",
