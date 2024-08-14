@@ -101,26 +101,46 @@
                         date: "Mar 2024 - Jun 2024",
                         title: ".NET web developer",
                         company: ".NET developer",
-                        desc: "a freelancer project work in BE .NET, specializing in .NET Web API. I offer tailored solutions and high-quality development services, estimate project, breaking task and coding follow customer requirement"
+                        projectName: "Freelancer",
+                        desc: "a freelancer project work in BE .NET, specializing in .NET Web API. I offer tailored solutions and high-quality development services, estimate project, breaking task and coding follow customer requirement",
+                        be: "C# .NET8",
+                        fe: "",
+                        db:"MSSQL SERVER",
+                        clound: ""
                     },
                     {
                         id: 2,
                         date: "Oct 2022 - Dec 2023",
                         title: "Stepmedia Software",
                         company: ".NET web developer",
-                        desc: "Levvia application of Deloitte: Implements new features, unit tests, maintains and troubleshoots web applications.Comply with established coding quality standards of the company.Follow the project and organization processes, policies, and regulations, and ensure the assigned tasks are performed on time and with high quality.Work closely with the QA team to ensure the project quality,"
+                        projectName: "Levvia application of Deloitte: ",
+                        desc: "Implements new features, unit tests, maintains and troubleshoots web applications.Comply with established coding quality standards of the company.Follow the project and organization processes, policies, and regulations, and ensure the assigned tasks are performed on time and with high quality.Work closely with the QA team to ensure the project quality,",
+                        be: "C# .NET Core, .NET Framework, Rest API, EF Core, NLayer apply in Microservice, Repository, Unit of Work (UoW), Dependency Injection(DI),... ",
+                        fe: "HTML, JavaScript, ReactJS render UI",
+                        db: "MSSQL SERVER",
+                        clound: "Azure clound, Azure cloud, Azure functions, Azure web job, Azure service Bus, Redis caching"
                     }, {
                         id: 3,
                         date: "Jun 2020 - Jun 2022",
                         title: "Global Vertical Innovations, LLC",
                         company: ".NET web Developer",
-                        desc: "RIVIR web-based application: Join the team to develop the web for the E-Commerce system. Analysis requirements, research, meeting to design the infrastructure of the project, break tasks, estimate, and implement the functions essential and integration "
+                        projectName: "RIVIR web-based application: ",
+                        desc: "Join the team to develop the web for the E-Commerce system. Analysis requirements, research, meeting to design the infrastructure of the project, break tasks, estimate, and implement the functions essential and integration",
+                        be: ".NET Core, EF Core, Hangfire, Serilog, RestSharp, Identity Server4, Elasticsearch, Logstash, Kibana, NLayer, Mediator, Factory, Dependency Injection (DI), Dapper, EF Core",
+                        fe: "",
+                        db: "MSSQL SERVER, MongoDB",
+                        clound: "Google Cloud Platform"
                     }, {
                         id: 4,
                         date: "Dec 2018 - Mar 2020",
                         title: "FPT Software HCM",
                         company: ".NET web Developer",
-                        desc: "M35: Programming web applications according to the company's plan for the ERP project. \n• Writing web APIs, and working with interface design staff. \n• Coding front-end with angular/html css \n• Maintaining and developing application features including upgrading old features and improving SQL procedures,"
+                        projectName: "M35 Web ERP: ",
+                        desc: "Programming web applications according to the company's plan for the ERP project. \n• Writing web APIs, and working with interface design staff. \n• Coding front-end with angular/html css \n• Maintaining and developing application features including upgrading old features and improving SQL procedures.",
+                        be: ".NET framework, MVC, 3-Tier, 3-Layer",
+                        fe: "",
+                        db: "MSSQL SERVER, Oracle",
+                        clound: ""
                     }],
                 u = [{
                     id: 1,
@@ -333,13 +353,20 @@
                                                     }), (0, a.jsxs)("h5", {
                                                         className: "uppercase text-fs-18 mt-7 mb-10",
                                                         children: [t.title, (0, a.jsx)("span", {
-                                                            className: "opacity-80 font-semibold text-fs-15 relative pl-26 font-Open-sans before:absolute before:w-10 before:h-2 before:bg-".concat(e ? "white" : "black-6", " before:left-7 before:top-9 before:opacity-80"),
+                                                            className: "opacity-80 font-semibold  relative pl-26 font-Open-sans before:absolute before:w-10 before:h-2 before:bg-".concat(e ? "white" : "black-6", " before:left-7 before:top-9 before:opacity-80"),
                                                             children: t.company
                                                         })]
                                                     }), (0, a.jsx)("p", {
+                                                        className: "font-semibold text-fs-14 uppercase relative font-Open-sans before:absolute before:bg-".concat(e ? "text-light-grey" : "", " text-fs-14"),
+                                                        children: "PROJECT: ".concat(t.projectName)
+                                                    }), (0, a.jsx)("p", {
                                                         className: "font-Open-sans ".concat(e ? "text-light-grey" : "", " text-fs-14"),
-                                                        children: t.desc
-                                                    })]
+                                                        children: "REPOSITORY: ".concat(t.desc)
+                                                    }), (0, a.jsx)("p", {
+                                                        className: "font-Open-sans ".concat(e ? "text-light-grey" : "", " text-fs-14"),
+                                                        children: "TECH STACK: ".concat(t.be, " ", t.fe, " ", t.db, " ", t.clound)
+                                                    })
+                                                ]
                                                 }, t.id))
                                             })
                                         }), (0, a.jsx)("div", {
