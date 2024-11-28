@@ -1,2 +1,2 @@
 # profile
-copypast template profile
+  profile
